@@ -1,7 +1,7 @@
 # Hi, I'm Janhvi 👋
 
 🎓 Computer Science student | 💻 Full-Stack Developer | 🎨 UI/UX Enthusiast  
-🔭 Currently working on: [Mystery Travel Co.](https://github.com/yourusername/mystery-travel-co)  
+🔭 Currently working on: Pyhton Projects  
 🌱 Learning: React, Panda and Python  
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile)
 
